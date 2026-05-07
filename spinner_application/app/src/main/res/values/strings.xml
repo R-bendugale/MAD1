@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner_application</string>
+    <string-array name="names">
+        <item>JAVA</item>
+        <item>PHP</item>
+        <item>HTML</item>
+    </string-array>
+</resources>

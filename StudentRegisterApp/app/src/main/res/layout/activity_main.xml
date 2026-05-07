@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <TextView
+                android:text="Name:"
+                android:padding="8dp"/>
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="200dp"
+                android:hint="Enter Name"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Roll No:"
+                android:padding="8dp"/>
+            <EditText
+                android:id="@+id/etRoll"
+                android:layout_width="200dp"
+                android:hint="Enter Roll No"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Course:"
+                android:padding="8dp"/>
+            <EditText
+                android:id="@+id/etCourse"
+                android:layout_width="200dp"
+                android:hint="Enter Course"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:id="@+id/btnRegister"
+                android:text="Submit"
+                android:layout_span="2"
+                android:layout_gravity="center"/>
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

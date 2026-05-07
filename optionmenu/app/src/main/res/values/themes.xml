@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.OptionMenu" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Keep default -->
+    </style>
+
+</resources>

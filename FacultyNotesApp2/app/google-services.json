@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "477156469336",
+    "firebase_url": "https://facultynotesapp-e5c63-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "facultynotesapp-e5c63",
+    "storage_bucket": "facultynotesapp-e5c63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477156469336:android:69ae84cb1111d19aaa782d",
+        "android_client_info": {
+          "package_name": "com.example.facultynotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaY_quWyXpCHIk8mEWZN9bWHJT28AS18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
